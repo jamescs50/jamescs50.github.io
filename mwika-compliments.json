@@ -1,0 +1,40 @@
+{
+        "anytime": [
+                "Hello Mwika"
+        ],
+        "morning": [
+                "Good morning, Mwika",
+                "Enjoy your day!",
+                "You are beautiful in the morning"
+        ],
+        "afternoon": [
+                "Hello, beauty!",
+                "Good Afternoon",
+                "Looking good today!"
+        ],
+        "evening": [
+                "You look nice!",
+                "Good Evening Mwika",
+                "You are special."
+        ],
+        "day_sunny": [
+                "Today is a sunny day",
+                "It's a beautiful day"
+        ],
+        "rain": [
+                "Don't forget your umbrella"
+        ],
+        "....-01-01": [
+                "Happy new year!"
+        ],
+        "....-12-25": [
+                "Merry Christmas!"
+        ],
+        "....-08-25": [
+                "Happy Birthday!!",
+                "Many Happy Returns!"
+        ],
+        "2020-10-24": [
+                "This is a test"
+        ]
+}
